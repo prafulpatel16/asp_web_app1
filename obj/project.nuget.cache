@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "n2nRFrCb6d1fH8bWyvInvMXqnPx6ulPMRpOuLASFk+UG6p20Q7yRXSubxjAQbbhKualhVLs3nmsER8iHR3pcJA==",
+  "success": true,
+  "projectFilePath": "D:\\cloud-devops\\asp_web_app1\\praful_cloud_app.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Praful\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Praful\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Praful\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Praful\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
