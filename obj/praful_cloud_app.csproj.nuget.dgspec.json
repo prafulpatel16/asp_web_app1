@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\cloud-devops\\asp_web_app1\\praful_cloud_app.csproj": {}
+    "D:\\cloud-devops\\prafuls_DontNet_webapp-1\\praful_cloud_app.csproj": {}
   },
   "projects": {
-    "D:\\cloud-devops\\asp_web_app1\\praful_cloud_app.csproj": {
+    "D:\\cloud-devops\\prafuls_DontNet_webapp-1\\praful_cloud_app.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\cloud-devops\\asp_web_app1\\praful_cloud_app.csproj",
+        "projectUniqueName": "D:\\cloud-devops\\prafuls_DontNet_webapp-1\\praful_cloud_app.csproj",
         "projectName": "praful_cloud_app",
-        "projectPath": "D:\\cloud-devops\\asp_web_app1\\praful_cloud_app.csproj",
+        "projectPath": "D:\\cloud-devops\\prafuls_DontNet_webapp-1\\praful_cloud_app.csproj",
         "packagesPath": "C:\\Users\\Praful\\.nuget\\packages\\",
-        "outputPath": "D:\\cloud-devops\\asp_web_app1\\obj\\",
+        "outputPath": "D:\\cloud-devops\\prafuls_DontNet_webapp-1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Praful\\AppData\\Roaming\\NuGet\\NuGet.Config"
